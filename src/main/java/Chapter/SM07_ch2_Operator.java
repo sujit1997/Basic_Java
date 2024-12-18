@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM07_ch2_Operator {
 
 	public static void main(String[] args) {

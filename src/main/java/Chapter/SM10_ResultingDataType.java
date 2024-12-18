@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM10_ResultingDataType {
 
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM17_logical {
 
 	public static void main(String[] args) {

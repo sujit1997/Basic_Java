@@ -1,4 +1,6 @@
-import 	java.util.Scanner;   
+package Chapter;
+
+import 	java.util.Scanner;
 
 public class SM05_TakingInput {
 

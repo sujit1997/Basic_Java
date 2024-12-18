@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM04_Literals {
 
 	public static void main(String[] args) {

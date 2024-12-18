@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM26_Array {
 
 public static void main(String[] args){

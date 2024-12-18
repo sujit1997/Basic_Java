@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM02_AdditionOfThreeNumber {
 
 	public static void main(String[] args){

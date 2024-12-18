@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM16_conditionals {
 
 	public static void main(String[] args) {

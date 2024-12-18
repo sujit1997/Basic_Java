@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM01_HelloWorld {
 
 	public static void main(String[] args) {

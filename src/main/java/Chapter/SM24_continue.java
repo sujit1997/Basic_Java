@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM24_continue {
 
 	public static void main(String[] args){

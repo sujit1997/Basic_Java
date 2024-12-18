@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM28_M_D_A {
 
 	public static void main(String[] args) {

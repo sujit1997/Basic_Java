@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM31_Methods {
 
 	static int logic(int x, int y){

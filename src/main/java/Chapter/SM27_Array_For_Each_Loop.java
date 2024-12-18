@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM27_Array_For_Each_Loop {
 
 	public static void main(String[] args){

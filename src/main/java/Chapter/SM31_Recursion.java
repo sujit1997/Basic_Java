@@ -1,3 +1,5 @@
+package Chapter;
+
 import java.util.Scanner;
 
 public class SM31_Recursion {

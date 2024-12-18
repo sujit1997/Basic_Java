@@ -1,3 +1,5 @@
+package Chapter;
+
 import java.util.Scanner;
  
 public class SM19_PS_CH4_Q5 {

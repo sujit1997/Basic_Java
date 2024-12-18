@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM23_forLoop {
 
 	public static void main(String[] args) {

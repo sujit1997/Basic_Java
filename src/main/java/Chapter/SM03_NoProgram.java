@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM03_NoProgram {
 
 	public static void main(String[] args){

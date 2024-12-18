@@ -1,3 +1,5 @@
+package Chapter;
+
 public class SM12_PS2PR1 {
 	
 	public static void main(String[] args) {

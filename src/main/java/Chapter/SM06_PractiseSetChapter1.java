@@ -1,3 +1,5 @@
+package Chapter;
+
 import java.util.Scanner;
 
 public class SM06_PractiseSetChapter1 {
