@@ -13,7 +13,7 @@ class Employee{
     return salary;
     }
 }
-public class SMPS38_Custom_Class {
+public class SM38_Custom_Class {
     public static void main(String[] args) {
         System.out.println("This is our custom class");
         Employee sujit = new Employee();

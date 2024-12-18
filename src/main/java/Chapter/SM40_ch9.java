@@ -19,7 +19,7 @@ class MyEmployee{
     }
 
 }
-public class SMPS40_ch9 {
+public class SM40_ch9 {
     public static void main(String[] args) {
     MyEmployee sujit = new MyEmployee();
     // sujit.id = 45;
