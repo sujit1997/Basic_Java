@@ -17,7 +17,7 @@ class B extends A{
         System.out.println("I am Meth 3 of class B");
     }
 }
-public class SMPS48_method_overriding {
+public class SM48_method_overriding {
     public static void main(String[] args) {
     A a = new A();
     a.meth2();

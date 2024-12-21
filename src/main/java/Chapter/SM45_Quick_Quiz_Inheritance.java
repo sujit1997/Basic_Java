@@ -26,7 +26,7 @@ class dog extends animal{
     }
 }
 
-public class SMPS45_Quick_Quiz_Inheritance {
+public class SM45_Quick_Quiz_Inheritance {
     public static void main(String[] args) {
         // Object of dog class
         dog local = new dog();

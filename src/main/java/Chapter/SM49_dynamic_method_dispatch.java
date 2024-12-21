@@ -16,7 +16,7 @@ class smartphone extends phone{
             System.out.println("Playing music");
         }
 }
-public class SMPS49_dynamic_method_dispatch {
+public class SM49_dynamic_method_dispatch {
     public static void main(String[] args) {
     // phone obj = new phone(); //Allowed
     // smartphone smobj = new smartphone();//Allowed
@@ -25,6 +25,62 @@ public class SMPS49_dynamic_method_dispatch {
          obj.showTime();
          obj.on();
          // obj.music(); // not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         // smartphone obj2 = new phone() // Not allowed
     }
 }

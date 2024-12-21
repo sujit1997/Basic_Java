@@ -19,7 +19,7 @@ class DoClass extends Ekclass{
         System.out.println("I am a constructor");
     }
 }
-public class SMPS47_thisSuper {
+public class SM47_thisSuper {
     public static void main(String[] args) {
     Ekclass e = new Ekclass(5);
     DoClass d = new DoClass(5);

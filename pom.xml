@@ -1,7 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
   <modelVersion>4.0.0</modelVersion>
 
+  <!-- Project Metadata -->
   <groupId>org.example</groupId>
   <artifactId>Basic_Java</artifactId>
   <version>1.0-SNAPSHOT</version>
@@ -11,10 +13,15 @@
   <url>http://maven.apache.org</url>
 
   <properties>
+    <!-- Encoding and Java version configuration -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>9</maven.compiler.source> <!-- Set source to Java 9 -->
+    <maven.compiler.target>9</maven.compiler.target> <!-- Set target to Java 9 -->
   </properties>
 
+  <!-- Dependencies -->
   <dependencies>
+    <!-- JUnit for testing -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -22,4 +29,21 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <!-- Build Configuration -->
+  <build>
+    <plugins>
+      <!-- Maven Compiler Plugin to specify the Java version -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <source>9</source> <!-- Java 9 Source version -->
+          <target>9</target> <!-- Java 9 Target version -->
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
 </project>

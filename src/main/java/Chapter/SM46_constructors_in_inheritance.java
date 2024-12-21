@@ -29,7 +29,7 @@ class childOfDerived extends derived1{
     }
 }
 
-public class SMPS46_constructors_in_inheritance {
+public class SM46_constructors_in_inheritance {
     public static void main(String[] args) {
         //base1 b = new base1();
         //derived1 d = new derived1();
