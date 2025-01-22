@@ -2,7 +2,7 @@ package Chapter;
 
 import java.util.Scanner;
 
-public class SM_79_errordemo {
+public class SM79_errordemo {
     public static void main(String[] args) {
         // SYntax error Demo
         // b=8; // b not declared
