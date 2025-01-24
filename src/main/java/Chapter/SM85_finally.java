@@ -1,6 +1,6 @@
 package Chapter;
 
-public class SMPS85_finally {
+public class SM85_finally {
     public static int greet(){
         try{
             int a = 50;
