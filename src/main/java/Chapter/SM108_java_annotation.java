@@ -13,7 +13,7 @@ class NewPhone extends phone {
     return a+b;
     }
 }
-public class SMPS108_java_annotation {
+public class SM108_java_annotation {
     @SuppressWarnings("Deprication")
     public static void main(String[] args) {
     NewPhone phone = new NewPhone();
